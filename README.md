@@ -16,7 +16,7 @@ CSS: Utilized for styling and creating visually appealing designs for the game i
 JavaScript: Implemented to handle game logic, user interactions, and score tracking.
 
 Getting Started
-To run the game locally, simply open the index.html file in a web browser. Alternatively, deploy the project to a web server to make it accessible online.
+To run the game locally, simply open the simon.html file in a web browser. Alternatively, deploy the project to a web server to make it accessible online.
 
 How to Contribute
 Fork the repository and clone it to your local machine.
